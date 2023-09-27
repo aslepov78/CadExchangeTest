@@ -1,0 +1,2 @@
+#define CADEXCHANGERLIB_API __declspec(dllexport)
+#define CADEXCHANGERLIB_API __declspec(dllimport)
